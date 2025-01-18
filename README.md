@@ -6,7 +6,7 @@ An Arduino library for sending and receiving data using CAN bus.
 
 ## What is CAN?
 
-* [https://en.wikipedia.org/wiki/CAN_bus]
+* https://en.wikipedia.org/wiki/CAN_bus
 
 
 ## Compatible Hardware
